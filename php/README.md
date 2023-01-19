@@ -1,4 +1,4 @@
-# reverse-shell
+# PHP Reverse Shell
 
 Be aware that you will need netcat installed on the target machine in order for the reverse shell to work.
 
